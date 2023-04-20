@@ -29,3 +29,5 @@ As can be seen in the report visualization, there are several insight there:
 * Five top country with biggest attendances are Japan, United States, South Korea, Englang, and France with Japan reach more than 500,000 audience.
 * Country that has higher revenue and shows is United States with nearly $150,000,000 USD revenue and more than 15 shows. The second country is Japan with more than $50,000,000 USD and around 12 shows. From the state, it can be said United States is the potential country to get bigger venue because it can give average revenue $10,000,000 per show while Japan give average revenue around $4,000,000 per show. 
 * City with the most attendaces is Seoul, South Korea with 214,634 people.
+
+You can see the report detail dashboard in this [Lookers Link](https://lookerstudio.google.com/reporting/65a52b38-5993-4235-97c4-ac5b7c846629)
